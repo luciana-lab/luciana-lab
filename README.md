@@ -4,9 +4,9 @@
 const lucianaSugeta = {
   role: "Software Engineer",
   background: "Digital Marketing",
-  languageSpoken: ["en_US", "pt_BR"],
+  languagesSpoken: ["en_US", "pt_BR"],
   skills: ["self-motivated", "curious", "teamwork", "detail-oriented", "problem-solving"],
-  currently: "learning algorithms",
+  currently: "Learning algorithms",
   funFact: "I'm Japanese but I was born in Brazil so technically, a Brazilian"
 }
 ```
@@ -55,7 +55,7 @@ Experienced in Ruby on Rails and JavaScript-based programming with 5+ years of M
   <br />
   :coffee: An application developed to help summarize early-stage startups pitches in need of help beyond funds. React/Redux/Thunk/Rails.
   
-  <strong>Real Estate Leve Quiz</strong> [Demo](https://real-estate-agent-quiz.netlify.app) · [Repo](https://github.com/luciana-lab/realtor_level_quiz_frontend)
+  <strong>Real Estate Level Quiz</strong> [Demo](https://real-estate-agent-quiz.netlify.app) · [Repo](https://github.com/luciana-lab/realtor_level_quiz_frontend)
   <br />
   :house_with_garden: A quiz to guide a real estate marketing company to improve upsell and cross-sales of multiple products. JS/Rails.
   
@@ -65,7 +65,7 @@ Experienced in Ruby on Rails and JavaScript-based programming with 5+ years of M
   
   <strong>My Bucket List</strong> [Demo](https://my-bucket-list-sinatra-project.herokuapp.com) · [Repo](https://github.com/luciana-lab/my-bucket-list-project)
   <br />
-  :ferris_wheel: This application was developed to allow users to create any type of life goal list. Sinatra.
+  :ferris_wheel: An application that allows users to create any type of life goal list. Sinatra.
  
 </details>
 
