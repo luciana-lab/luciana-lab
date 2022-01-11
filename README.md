@@ -3,11 +3,11 @@
 ```javascript
 const lucianaSugeta = {
   role: "Software Engineer",
-  background: "Digital Marketing",
+  background: "Digital Marketing and Neuromarketing",
   languagesSpoken: ["en_US", "pt_BR"],
   skills: ["self-motivated", "curious", "teamwork", "detail-oriented", "problem-solving"],
   currently: "Learning algorithms",
-  funFact: "I'm Japanese but I was born in Brazil so technically, a Brazilian"
+  funFact: "I'm Japanese but I was born in Brazil so technically, Brazilian"
 }
 ```
 <br />
@@ -41,10 +41,10 @@ const lucianaSugeta = {
 Experienced in Ruby on Rails and JavaScript-based programming with 5+ years of Media Analyst and Digital Marketing experience. Possess strong skills working with different types of clients and providing excellent service, marketing operations, and strategic support. Bilingual (English and Portuguese) professional, self-motivated, curious, and detail-oriented with a positive attitude and the ability to work in fast-paced environments. Effective strategic planning, relationship building, analytical, and problem-solving skills.
 
 <a href="https://www.linkedin.com/in/lucianasugeta">
-  <img align="left" alt="Luciana Sugeta | LinkedIn" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+  <img align="left" alt="Luciana Sugeta | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://luciana-lab.medium.com">
- <img align="left" alt="Luciana Sugeta | Medium Blog" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
+ <img align="left" alt="Luciana Sugeta | Medium Blog" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png" />
 </a>
   
 <br />
