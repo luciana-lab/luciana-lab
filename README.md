@@ -1,5 +1,9 @@
 ### Hi there, I'm Luciana 👋
 
+<a href="https://www.linkedin.com/in/lucianasugeta/">
+  <img align="left" alt="Luciana Sugeta | LinkedIn" width="24px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+</a>
+  
 ```javascript
 const lucianaSugeta = {
   role: "Software Engineer",
@@ -10,8 +14,6 @@ const lucianaSugeta = {
 }
 ```
 
-<br />
-<br />
 <br />
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
@@ -37,27 +39,29 @@ const lucianaSugeta = {
 
 <details>
   <summary> <b> Find out more about me!</b> <i>(click to expand!)</i> </summary>
+ 
+ ## :kimono: About Me
+Experienced in Ruby on Rails and JavaScript-based programming with 5+ years of Media Analyst and Digital Marketing experience. Possess strong skills working with different types of clients and providing excellent service, marketing operations, and strategic support. Bilingual (English and Portuguese) professional, self-motivated, curious, and detail-oriented with a positive attitude and the ability to work in fast-paced environments. Effective strategic planning, relationship building, analytical, and problem-solving skills.
   
+  <br />
+
  ## :computer: Projects
   1 Million Cups Dripper [Demo](https://one-million-cups-dripper.herokuapp.com) · [Repo](https://github.com/luciana-lab/early-stage-companies-backend)
+  <br />
   :coffee: An application developed to help summarize early-stage startups pitches in need of help beyond funds. · React/Redux/Thunk/Rails.
   
   Real Estate Leve Quiz [Demo](https://real-estate-agent-quiz.netlify.app) · [Repo](https://github.com/luciana-lab/realtor_level_quiz_frontend)
+  <br />
   :house_with_garden: A quiz to guide a real estate marketing company to improve upsell and cross-sales of multiple products. · JS/Rails.
   
   CrossFit Benchmark [Demo](https://crossfit-benchmark.herokuapp.com) · [Repo](https://github.com/luciana-lab/crossfit-benchmark-project)
+  <br />
   :lifter: An application that helps athletes to keep track of their workout scores. · Ruby on Rails.
   
   My Bucket List [Demo](https://my-bucket-list-sinatra-project.herokuapp.com) · [Repo](https://github.com/luciana-lab/my-bucket-list-project)
+  <br />
   :ferris_wheel: This application was developed to allow users to create any type of life goal list. · Sinatra.
-  
-  ---
-  
- ## :mailbox_with_mail: Stay in Touch
-  <a href="https://www.linkedin.com/in/lucianasugeta/">
-    <img align="left" alt="Luciana Sugeta | LinkedIn" width="24px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
-  </a>
-  
+ 
 </details>
 
 <!--
