@@ -1,12 +1,11 @@
 ### Hey, I'm Luciana 👋
   
 ```javascript
-const lucianaSugeta = {
+let lucianaSugeta = {
   role: "Software Engineer",
   background: "Digital Marketing and Neuromarketing",
   languagesSpoken: ["en_US", "pt_BR"],
   skills: ["fast learner", "curious", "teamwork", "detail-oriented", "problem-solving"],
-  currently: "Learning algorithms",
   funFact: "I'm Japanese but I was born in Brazil so technically, Brazilian"
 }
 ```
